@@ -9,9 +9,9 @@
   <title>Telegram Web</title>
 
   <!-- build:css css/app.css -->
-  <link rel="stylesheet" href="vendor/angular/angular-csp.css"/>
-  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css"/>
-  <link rel="stylesheet" href="vendor/angularjs-toaster/toaster.css"/>
+  <link rel="stylesheet" href="vendora/angular/angular-csp.css"/>
+  <link rel="stylesheet" href="vendora/bootstrap/css/bootstrap.css"/>
+  <link rel="stylesheet" href="vendora/angularjs-toaster/toaster.css"/>
   <link rel="stylesheet" href="css/app.css"/>
   <!-- endbuild -->
 
@@ -49,37 +49,37 @@
 
   <!-- build:js js/app.js -->
   <script type="text/javascript" src="js/lib/polyfill.js"></script>
-  <script type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
+  <script type="text/javascript" src="vendora/jquery/jquery.min.js"></script>
   <script type="text/javascript" src="js/lib/config.js"></script>
   <script type="text/javascript" src="js/init.js"></script>
   <script type="text/javascript" src="js/offline_manager.js"></script>
 
-  <script type="text/javascript" src="vendor/jquery.nanoscroller/nanoscroller.js"></script>
-  <script type="text/javascript" src="vendor/angular/angular.js"></script>
-  <script type="text/javascript" src="vendor/angular/angular-route.js"></script>
-  <script type="text/javascript" src="vendor/angular/angular-animate.js"></script>
-  <script type="text/javascript" src="vendor/angular/angular-sanitize.js"></script>
-  <script type="text/javascript" src="vendor/angular/angular-touch.js"></script>
-  <script type="text/javascript" src="vendor/ui-bootstrap/ui-bootstrap-custom-tpls-0.12.0.js"></script>
-  <script type="text/javascript" src="vendor/angular-media-player/angular-media-player.js"></script>
+  <script type="text/javascript" src="vendora/jquery.nanoscroller/nanoscroller.js"></script>
+  <script type="text/javascript" src="vendora/angular/angular.js"></script>
+  <script type="text/javascript" src="vendora/angular/angular-route.js"></script>
+  <script type="text/javascript" src="vendora/angular/angular-animate.js"></script>
+  <script type="text/javascript" src="vendora/angular/angular-sanitize.js"></script>
+  <script type="text/javascript" src="vendora/angular/angular-touch.js"></script>
+  <script type="text/javascript" src="vendora/ui-bootstrap/ui-bootstrap-custom-tpls-0.12.0.js"></script>
+  <script type="text/javascript" src="vendora/angular-media-player/angular-media-player.js"></script>
 
-  <script type="text/javascript" src="vendor/jsbn/jsbn_combined.js"></script>
-  <script type="text/javascript" src="vendor/cryptoJS/crypto.js"></script>
-  <script type="text/javascript" src="vendor/rusha/rusha.js"></script>
-  <script type="text/javascript" src="vendor/zlib/gunzip.min.js"></script>
-  <script type="text/javascript" src="vendor/closure/long.js"></script>
-  <script type="text/javascript" src="vendor/leemon_bigint/bigint.js"></script>
-  <script type="text/javascript" src="vendor/libwebpjs/libwebp-0.2.0.js"></script>
-  <script type="text/javascript" src="vendor/angularjs-toaster/toaster.js"></script>
-  <script type="text/javascript" src="vendor/clipboard/clipboard.js"></script>
+  <script type="text/javascript" src="vendora/jsbn/jsbn_combined.js"></script>
+  <script type="text/javascript" src="vendora/cryptoJS/crypto.js"></script>
+  <script type="text/javascript" src="vendora/rusha/rusha.js"></script>
+  <script type="text/javascript" src="vendora/zlib/gunzip.min.js"></script>
+  <script type="text/javascript" src="vendora/closure/long.js"></script>
+  <script type="text/javascript" src="vendora/leemon_bigint/bigint.js"></script>
+  <script type="text/javascript" src="vendora/libwebpjs/libwebp-0.2.0.js"></script>
+  <script type="text/javascript" src="vendora/angularjs-toaster/toaster.js"></script>
+  <script type="text/javascript" src="vendora/clipboard/clipboard.js"></script>
 
-  <script type="text/javascript" src="vendor/ogv.js/ogv.js"></script>
-  <script type="text/javascript" src="vendor/ogv.js/ogv-demuxer-ogg.js"></script>
-  <script type="text/javascript" src="vendor/ogv.js/ogv-decoder-audio-opus.js"></script>
-  <script type="text/javascript" src="vendor/ogv.js/ogv-decoder-audio-vorbis.js"></script>
-  <script type="text/javascript" src="vendor/ogv.js/ogv-support.js"></script>
+  <script type="text/javascript" src="vendora/ogv.js/ogv.js"></script>
+  <script type="text/javascript" src="vendora/ogv.js/ogv-demuxer-ogg.js"></script>
+  <script type="text/javascript" src="vendora/ogv.js/ogv-decoder-audio-opus.js"></script>
+  <script type="text/javascript" src="vendora/ogv.js/ogv-decoder-audio-vorbis.js"></script>
+  <script type="text/javascript" src="vendora/ogv.js/ogv-support.js"></script>
 
-  <script type="text/javascript" src="vendor/recorderjs/recorder.min.js"></script>
+  <script type="text/javascript" src="vendora/recorderjs/recorder.min.js"></script>
 
   <script type="text/javascript" src="js/lib/utils.js"></script>
   <script type="text/javascript" src="js/lib/bin_utils.js"></script>
