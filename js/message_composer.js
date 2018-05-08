@@ -4,7 +4,7 @@
  * Copyright (C) 2014 Igor Zhukov <igor.beatle@gmail.com>
  * https://github.com/zhukov/webogram/blob/master/LICENSE
  */
-
+//dungpx add test
 'use strict'
 
 /* EmojiHelper */
